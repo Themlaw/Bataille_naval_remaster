@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjoijacbjtmqp"]
+
+[ext_resource type="Script" uid="uid://odywu2hr6u00" path="res://scripts/rules.gd" id="1_81cfg"]
+
+[node name="Rules(control)" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_81cfg")
+
+[node name="Rules(label)" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Menu_button(Button)" type="Button" parent="."]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
