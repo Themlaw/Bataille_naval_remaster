@@ -4,9 +4,18 @@ We want to explore the potential of the well-known naval battle game through the
 First and foremost, we want it to be more dynamic.
 
 ## Table of contents
-To Do
 
-## Project architecture
+- [Project Architecture](#project-architecture)
+- [Main Scene](#main-scene)
+- [MainMenu](#mainmenu)
+- [Rules](#rules)
+- [Game](#game)
+- [Maps](#maps)
+- [Ships](#ships)
+- [UI](#ui)
+- [Innovations](#innovations)
+
+## Project Architecture
 
 The project is divided in multiple scenes that are dynamically loaded.
 
