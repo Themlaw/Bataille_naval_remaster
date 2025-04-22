@@ -6,6 +6,11 @@ First and foremost, we want it to be more dynamic.
 ## Table of contents
 
 - [Project Architecture](#project-architecture)
+- [Innovations](#innovations)
+
+## Project Architecture
+
+The project is divided in multiple scenes that are dynamically loaded.
 - [Main Scene](#main-scene)
 - [MainMenu](#mainmenu)
 - [Rules](#rules)
@@ -13,11 +18,6 @@ First and foremost, we want it to be more dynamic.
 - [Maps](#maps)
 - [Ships](#ships)
 - [UI](#ui)
-- [Innovations](#innovations)
-
-## Project Architecture
-
-The project is divided in multiple scenes that are dynamically loaded.
 
 ### Main Scene
 
