@@ -40,6 +40,7 @@ Some nodes relative to the maps, the UI, the audio. One should verify if these n
 ### Maps
 
 Each Map is a different scene, to be constructed.
+Tilset (set.png): https://opengameart.org/content/16x16-overworld-tiles
 
 ### Ships
 
