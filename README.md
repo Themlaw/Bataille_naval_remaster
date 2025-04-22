@@ -1,7 +1,7 @@
 # Bataille_navale_remaster
 A tactical game based on the concept of naval battle.
-We want to explore the potential of the well-known naval battle game through the extension of possible in-game actions, by adding maps.
-First and foremost, we want it to be more dynamic.
+We want to explore the potential of the well-known naval battle game through the extension of possible in-game actions, by adding maps, and much more.
+We mainly want it to be more dynamic.
 
 ## Table of contents
 
