@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://b358ryc7ym8dx"]
 
-[ext_resource type="Texture2D" uid="uid://dm2di2ded2a78" path="res://assets/set.png" id="1_k0gx3"]
+[ext_resource type="Texture2D" uid="uid://dt83w05g63irx" path="res://assets/tilesets/set.png" id="1_k0gx3"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hmh1l"]
 texture = ExtResource("1_k0gx3")
@@ -282,7 +282,7 @@ texture = ExtResource("1_k0gx3")
 17:17/0 = 0
 
 [sub_resource type="TileSet" id="TileSet_h4ba4"]
-sources/0 = SubResource("TileSetAtlasSource_hmh1l")
+sources/3 = SubResource("TileSetAtlasSource_hmh1l")
 
 [node name="TileMapLayer" type="TileMapLayer"]
 tile_set = SubResource("TileSet_h4ba4")
